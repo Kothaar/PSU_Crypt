@@ -1,6 +1,4 @@
 # CS465 Project 2 - PDX_PubCrypt.py
-### Kelly Burton
-### kebu2@pdx.edu
   
 ## Usage
 **This is a toy asymmetric public-key cryptosystem. Don't use for any serious cryptography!!!**
